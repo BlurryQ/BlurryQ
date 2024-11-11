@@ -16,9 +16,9 @@
 |---------------|----------------|
 | [![React](https://skillicons.dev/icons?i=react)](https://react.dev/) [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/) [![Jest](https://skillicons.dev/icons?i=jest)](https://jestjs.io/) [![Vite](https://skillicons.dev/icons?i=vite)](https://vite.dev/) | [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/) [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en) |
 
-| **Tools/ Software** |
+<!-- | **Tools/ Software** |
 |-------------------------|
-| [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/) [![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com/) [![git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) [![Ubuntu](https://skillicons.dev/icons?i=ubuntu)](https://ubuntu.com/)|
+| [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/) [![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com/) [![git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) [![Ubuntu](https://skillicons.dev/icons?i=ubuntu)](https://ubuntu.com/)| -->
 
 
 <!--
