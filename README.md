@@ -1,6 +1,6 @@
 # Hello 👋
 
-🔭 I’m building a full stack recipe website. I have the back end planned and am currently remodelling the front end in preparation for it's move from static to dynamic.
+🔭 I’m building a fair weather weather app in Typescript to let me know whether I should walk the dog, mow the lawn or hop on the bike.
 
 🌱 I'm learning computer science by working through CS50's Into to Computer Science.
 
