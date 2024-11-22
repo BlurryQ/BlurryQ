@@ -10,7 +10,7 @@
 
 | **Languages** |
 |---------------|
-| [![JS](https://skillicons.dev/icons?i=js)](https://www.javascript.com/) [![Bash](https://skillicons.dev/icons?i=bash)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))  [![CSS](https://skillicons.dev/icons?i=css)](https://www.w3.org/Style/CSS/) [![node-postgres](https://skillicons.dev/icons?i=postgres)](https://node-postgres.com/) [![HTML](https://skillicons.dev/icons?i=html)](https://html.com/) [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/) [![C](https://skillicons.dev/icons?i=c)](https://www.learn-c.org/)| 
+| [![JS](https://skillicons.dev/icons?i=js)](https://www.javascript.com/) [![Bash](https://skillicons.dev/icons?i=bash)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))  [![CSS](https://skillicons.dev/icons?i=css)](https://www.w3.org/Style/CSS/) [![node-postgres](https://skillicons.dev/icons?i=postgres)](https://node-postgres.com/) [![HTML](https://skillicons.dev/icons?i=html)](https://html.com/) [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)| 
 
 | **Libraries** | **Frameworks** |
 |---------------|----------------|
