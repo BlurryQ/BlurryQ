@@ -1,8 +1,8 @@
 # Hello 👋
 
-🔭 I’m building a fair weather weather app in Typescript to let me know whether I should walk the dog, mow the lawn or hop on the bike.
+🔭 I’m building a full stack events app for posting, hosting and selling events.
 
-🌱 I'm learning computer science by working through CS50's Into to Computer Science.
+👯 I’ve been collaborating on the back end of a static recipe site. Once complete we will start the front end.
 
 ⚡ Fun fact: I used the icons at [Skill Icon](https://skillicons.dev/) to build the below skill table
 
@@ -26,9 +26,11 @@
 
 Here are some ideas to get you started:
 
+- 🔭 I’m building a ...
+- 🌱 I'm learning ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - 📫 How to reach me: ...
-👯 I’ve been collaborating on a coding habit tracker app that uses a virtual pet to motivate (emotionally manipulate) users to keep the pet "charged" by completing their study goals, making the process more engaging and fun.
+- 👯 I’ve been collaborating on...
 -->
