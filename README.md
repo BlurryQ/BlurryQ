@@ -1,8 +1,6 @@
 # Hello 👋
 
-🔭 I’m building a full stack events app for posting, hosting and selling events.
-
-👯 I’ve been collaborating on the back end of a static recipe site. Once complete we will start the front end.
+- 🌱 I'm learning computer science and AI with The Open University.
 
 ⚡ Fun fact: I used the icons at [Skill Icon](https://skillicons.dev/) to build the below skill table
 
